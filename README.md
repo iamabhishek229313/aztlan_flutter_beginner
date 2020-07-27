@@ -1,8 +1,9 @@
 # Flutter Beginners Guide -- aztlan
 ## So, what is Flutter?
 **As they say** Flutter is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia and the web from a single codebase **(Dart)**.
-
-													     P.S -stolen from wiki
+```
+P.S -stolen from wiki
+```
 ## Why we're using Flutter?
 <ul>
 <li>Hot Reload ❤️</li>
@@ -22,16 +23,32 @@
 **Check out some  Google Codelabs projects.**
 [Check this out](https://flutter.dev/docs/codelabs) This will help you to get some basic understanding about Flutter & Dart.
 
-**Need some Frontend/Presentation layer/UI Concepts?**
-**1) Type of Widgets:** Although there are tons of **Widgets** but basically they are **Stateless** or **Stateful** [Let's have a quick look into those.](https://medium.com/flutter-community/flutter-stateful-vs-stateless-db325309deae) - 10 min
+## Some of the great Websites/Blog/Video Tutorials
 
+**MTech Viral Flutter Tutorial -by Pawan Kumar** [Click here](https://www.youtube.com/c/MTechViral/playlists)
+</br>
+**Filled Stacks - Tutorial and guides on development by Dane Mackier** [Click here](https://www.filledstacks.com/)
+</br>
+**Flutter Beginner Tutorial -by The Net Ninja** [Click here](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+
+**Need some more Frontend/Presentation layer/UI Concepts?**
+</br>
+**1) Type of Widgets:** Although there are tons of **Widgets** but basically they are **Stateless** or **Stateful** [Let's have a quick look into those.](https://medium.com/flutter-community/flutter-stateful-vs-stateless-db325309deae) - 10 min
+</br>
 **2) Now let's explore some YouTube content out there:**
+</br>
 **Travel UI** - [Click here](https://www.youtube.com/watch?v=CSa6Ocyog4U)
+</br>
 **Flutter Instagram UI** - [Click here](https://www.youtube.com/watch?v=WYL66RNZpDI)
+</br>
 **Covid-19 Tracker** - [Click here](https://www.youtube.com/watch?v=krU-ASLb8lM)
+</br>
 **Netflix Redesign** -  [Click here](https://www.youtube.com/watch?v=sgfMdhV4HQI)
+</br>
  **Pokemon App** - [Click here](https://youtu.be/yeXJqZCiwTQ)
+ </br>
 **Flutter Responsive Game of Thrones Flutter App** - [Click here](https://youtu.be/c0-dC74Sw9Y)
+</br>
 **Flutter Gif Search Engine App** - [Click here](https://youtu.be/akMH3UOvYu8)
 
 **3) Flutter Cheat sheet** -  [Click here](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
@@ -49,19 +66,25 @@
 
 
 ## State management in Flutter.
+
 **State Management Introduction** [Click here](https://medium.com/@azamsharp/introduction-to-state-management-in-flutter-40ff07f00f81)
+</br>
 **State Management Introduction  & BLoC Pattern (Video)** [Click here](https://www.youtube.com/watch?v=jdUBV7AWL2U)
-
+</br></br>
 **Flutter: Pragmatic State Management-Google I/O'19** [Click here](https://www.youtube.com/watch?v=d_m5csmrf7I)
+</br>
 **Flutter Todos Tutorial with “flutter_bloc” -by Felix Angelov** [Click here](https://medium.com/flutter-community/flutter-todos-tutorial-with-flutter-bloc-d9dd833f9df3)
-
+</br></br>
 **Future references regarding BLoC pattern** - [Click here](https://bloclibrary.dev/#/)
 
 ## More about Flutter
 
 **Flutter Widget of the Week [Playlist]: Very short videos -by Flutter team** [Click here](https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
+</br>
 **Flutter Boring Show -by Flutter team** [Click Here](https://www.youtube.com/watch?v=vqPG1tU6-c0)
+</br>
 **Flutter in Focus -by Flutter team** - [Click here](https://www.youtube.com/watch?v=wgTBLj7rMPM&list=PLjxrf2q8roU2HdJQDjJzOeO6J3FoFLWr2)
+</br>
 
 ## A RoadMap for Flutter 
 **-by** [**olexale**](https://github.com/olexale)
